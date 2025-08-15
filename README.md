@@ -3,7 +3,7 @@
 
 ---
 
-# 👋 Welcome to My GitHub
+# Hello 👋, I'm JAMES NKURANGA
 
 A passionate **Full-Stack & Mobile Developer** based in Kigali, Rwanda.  
 I build user-focused, scalable applications that solve real-world problems — from backend architecture to beautiful, functional frontends.
@@ -11,11 +11,11 @@ I build user-focused, scalable applications that solve real-world problems — f
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently developing my skills in Backe-end Engineering.**.
+- 🔭 I’m currently developing my skills in Backend Engineering.
 - 🌱 Growing my expertise in **Spring Boot**, **Flutter**, and **React Native**.
 - 👯 Open to collaborating on impactful tech projects.
 - 💬 Ask me about **Java**, **PHP**, **Python**, **Flutter**, and **React Native**.
-- 📫 Reach me at: **kjames@gmail.com** | **+250 785 403 299**
+- 📫 Reach me at: **kjamesnkuranga@gmail.com**
 - ⚡ Fun fact: I turn complex ideas into simple, elegant software solutions.
 
 ---
@@ -43,16 +43,3 @@ I build user-focused, scalable applications that solve real-world problems — f
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesnkuranga&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesnkuranga&layout=compact&theme=tokyonight)  
-
----
-
-## 📈 GitHub Activity Graph
-[![James's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesnkuranga&theme=tokyo-night)](https://github.com/jamesnkuranga)
-
----
